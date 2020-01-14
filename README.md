@@ -4,7 +4,7 @@ A **highly opinionated** template for React apps requiring Firebase Auth based l
 
 - Create React App structure
 - Redux Toolkit
-- Firebase Auth + Firestore
+- Firebase Auth + Realtime Database
 - Formik
 - ESLint (AirBnB)
 - Prettier
